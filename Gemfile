@@ -43,5 +43,5 @@ end
 
 group :production do
   gem "pg", "1.5.9"
-  gem "aws-sdk-s3", "1.199.0", require: false
+  gem "aws-sdk-s3", "1.202.0", require: false
 end
